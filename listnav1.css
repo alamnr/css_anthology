@@ -1,0 +1,129 @@
+/*
+#navigation {
+  width: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#navigation ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#navigation li {
+  border-bottom: 1px solid #ED9F9F;
+}
+#navigation li a {
+  display: block;
+  padding: 5px 5px 5px 0.5em;
+  border-left: 12px solid #711515;
+  border-right: 1px solid #711515;
+  background-color: #B51032;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+#navigation li a:hover {
+  background-color: #711515;
+  color: #FFFFFF;
+}
+*/
+/*
+#navigation {
+  width: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#navigation ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#navigation li {
+  border-bottom: 1px solid #ED9F9F;
+}
+#navigation li a:link, #navigation li a:visited  {
+  display: block;
+  padding: 5px 5px 5px 0.5em;
+  border-left: 12px solid #711515;
+  border-right: 1px solid #711515;
+  background-color: #B51032;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+#navigation li a:hover {
+  background-color: #711515;
+  color: #FFFFFF;
+}
+#navigation ul ul {
+  margin-left: 12px;
+}
+#navigation ul ul li {
+  border-bottom: 1px solid #711515;
+  margin:0;
+}
+#navigation ul ul a:link, #navigation ul ul a:visited {
+  background-color: #ED9F9F;
+  color: #711515;
+}
+#navigation ul ul a:hover {
+  background-color: #711515;
+  color: #FFFFFF;
+}*/
+
+
+/*
+#navigation {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .9em;
+}
+#navigation ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 4px;
+}
+#navigation li {
+  display: inline;
+}
+#navigation a:link, #navigation a:visited { 
+  padding: 3px 10px 2px 10px; 
+  color: #FFFFFF;
+  background-color: #B51032;
+  text-decoration: none;
+  border: 1px solid #711515;
+}
+#navigation a:hover {
+  color: #FFFFFF;
+  background-color: #711515;
+}*/
+
+
+
+#navigation {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .9em;
+}
+#navigation ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 4px;
+}
+#navigation li {
+  display: inline;
+}
+#navigation a:link, #navigation a:visited { 
+  margin-right: 2px;
+  padding: 3px 10px 2px 10px; 
+  color: #A62020;
+  background-color: #FCE6EA;
+  text-decoration: none;
+  border-top: 1px solid #FFFFFF;
+  border-left: 1px solid #FFFFFF;
+  border-bottom: 1px solid #717171;
+  border-right: 1px solid #717171;
+}
+#navigation a:hover {
+  border-top: 1px solid #717171;
+  border-left: 1px solid #717171;
+  border-bottom: 1px solid #FFFFFF;
+  border-right: 1px solid #FFFFFF;
+}

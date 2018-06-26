@@ -1,0 +1,60 @@
+
+h1, h2 {
+ font-family: sans-serif;
+ color: #3366CC;
+}
+
+p { color: #0000FF; }
+.sidebar { color: #3366CC; }
+p.sidebar a:link, p.sidebar a:visited {
+  font-weight: bold;
+  color: #3366CC;
+}
+
+a:link, a:visited {
+  text-decoration: underline;
+  color: #6A5ACD;
+  background-color: transparent;
+}
+a:hover, a:active {
+  text-decoration: underline overline;
+  color: #191970;
+  background-color: #C9C3ED;
+}
+
+.boxout {
+  color: #FFFFFF;
+  background-color: #6A5ACD;
+}
+.boxout a:link, .boxout a:visited {
+  text-decoration: underline;
+  color: #E4E2F6;
+  background-color: transparent;
+}
+.boxout a:hover, .boxout a:active {
+  background-color: #C9C3ED;
+  color: #191970;
+}
+
+h1 {
+  //background-color: #ADD8E6;
+  color: #256579;
+  font: 18px Verdana, Geneva, Arial, Helvetica, sans-serif;
+  padding: 2px;
+   border-bottom: 1px solid #aaaaaa;
+   margin-bottom: -12px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+body {
+  background-color: #FFFFFF;
+  background-image: url(x_bar_wd_03.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+background-attachment: fixed;
+}
